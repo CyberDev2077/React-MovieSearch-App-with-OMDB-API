@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/React-MovieSearch-App-with-OMDB-API/static/css/main.e88dce37.css",
+    "main.js": "/React-MovieSearch-App-with-OMDB-API/static/js/main.37a02305.js",
+    "index.html": "/React-MovieSearch-App-with-OMDB-API/index.html",
+    "static/media/search.svg": "/React-MovieSearch-App-with-OMDB-API/static/media/search.8ff5426bc87a3f731164f42e41b7144b.svg",
+    "main.e88dce37.css.map": "/React-MovieSearch-App-with-OMDB-API/static/css/main.e88dce37.css.map",
+    "main.37a02305.js.map": "/React-MovieSearch-App-with-OMDB-API/static/js/main.37a02305.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e88dce37.css",
+    "static/js/main.37a02305.js"
+  ]
+}
